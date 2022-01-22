@@ -1,0 +1,47 @@
+{
+    "lang": "عربي",
+    "whatsapp": "Whatsapp",
+    "call_us": "Call us",
+    "face_lifiting":"Face Lifiting",
+    "meet": "Meet our other",
+    "doctor": "Doctors",
+    "who" : "Who are we",
+    "oriana": "Oriana Aesthetic Clinic - RAK",
+    "follow": "Follow us on our Social Media",
+    "offer": "Other Offers",
+    "why": "Why rent if you can",
+    "buy": "buy",
+    "montly": "Monthly installments starting from 7,000 In cooperation with a group of Manazel Real Estate, we would like to offer clients of Oriana Clinics and Hospitals exclusive prices for luxury apartments.",
+    "explore": "Explore Our Awesome Services",
+
+    "doctor1": {
+      "name": "DR. JOUD MASKACI",
+      "desc": "Specialist, Dermatology & Aesthetic"
+    },
+
+    "doctor2": {
+      "name": "DR. AMANI AL-ANDALUS",
+      "desc": "Specialist, Plastic Surgery"
+    },
+
+    "doctor3": {
+      "name": "DR MAHA EZZ ALARAB",
+      "desc": "Specialist, Dermatology & Aesthetic"
+    },
+
+    "doctor4": {
+      "name": "DR. TAJ",
+      "desc": "Specialist, Dermatology & Aesthetic"
+    },
+
+    "doctor5": {
+      "name": "DR. NASHWA IBRAHIM",
+      "desc": "Specialist, Dermatology & Aesthetic"
+    },
+
+    "doctor6": {
+      "name": "NADA MOSELLI",
+      "desc": "Specialist in laser and correction of skin defects"
+    }
+    
+  }
