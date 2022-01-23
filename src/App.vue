@@ -19,6 +19,7 @@
     <DoctorComponent />
     <SocialComponent />
     <OfferComponent />
+    <FooterComponent />
   </div>
 </template>
 
@@ -29,6 +30,7 @@ import ViedoComponent from './components/Video.vue';
 import DoctorComponent from './components/Doctors.vue';
 import SocialComponent from './components/Social.vue';
 import OfferComponent from './components/Offer.vue';
+import FooterComponent from './components/Footer.vue';
 import i18n from './i18n';
 
 
@@ -39,7 +41,8 @@ export default {
    ViedoComponent,
    DoctorComponent,
    SocialComponent,
-   OfferComponent
+   OfferComponent,
+   FooterComponent
   },
   data: function() {
     const lang = localStorage.getItem('lang') || 'en';
